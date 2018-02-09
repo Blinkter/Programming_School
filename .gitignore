@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Created by .ignore support plugin (hsz.mobi)
 ### Eclipse template
 
@@ -54,6 +55,14 @@ local.properties
 ### Java template
 *.class
 
+=======
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+>>>>>>> 9f35092d4b89dbb7673d7303771fcd4eefc63f39
 # BlueJ files
 *.ctxt
 
@@ -64,6 +73,7 @@ local.properties
 *.jar
 *.war
 *.ear
+<<<<<<< HEAD
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
@@ -110,3 +120,11 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 fabric.properties
+=======
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+>>>>>>> 9f35092d4b89dbb7673d7303771fcd4eefc63f39
